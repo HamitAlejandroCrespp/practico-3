@@ -1,0 +1,4 @@
+a) Preparar una taza de té: 1. Hervir agua. 2. Colocar la bolsa de té en una taza. 3. Verter el agua caliente. 4. Esperar 3 minutos. 5. Retirar la bolsa y endulzar.
+b) Retirar dinero de un cajero: 1. Insertar tarjeta. 2. Digitar el PIN. 3. Seleccionar la opción "Retirar efectivo". 4. Ingresar el monto deseado. 5. Recoger el dinero y la tarjeta
+3Resolver la ecuación cuadrática: 1. Obtener los valores de A, B y C. 2. Calcular el discriminante $\Delta = B^2 - 4AC$. 
+ Si el discriminante es negativo, mostrar que no hay soluciones reales. 4. Si es positivo o cero, aplicar la fórmula general $x = \frac{-B \pm \sqrt{\Delta}}{2A}$ para hallar los resultados.   
